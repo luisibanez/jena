@@ -56,7 +56,7 @@
   </scm>
 
   <properties>
-    <ver.lucene>3.6.1</ver.lucene>
+    <ver.lucene>7.1.0</ver.lucene>
     <ver.arq>2.10.0-SNAPSHOT</ver.arq>
     <ver.tdb>0.10.0-SNAPSHOT</ver.tdb>
   </properties>
